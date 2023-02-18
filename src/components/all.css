@@ -1,0 +1,39 @@
+.outer{
+    height: 120px;
+    width: 320px;
+    border: 1px solid gray;
+    float: left;
+    margin-left: 20px;
+    padding: 5px;
+    margin: 10px auto;
+    margin-left: 20px;
+    box-shadow: 0px 0px 5px 1px rgb(234, 230, 230);
+    border-radius: 8px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.outer:hover{
+    box-shadow: 0px 0px 5px 1px rgb(36, 36, 36);
+}
+.dates{
+    float: right;
+    padding-top: 25px;
+    padding-right: 10px;
+    color: gray;
+    text-shadow: 1px 0px rgb(146, 145, 145);
+}
+.txt{
+    color: black;
+    font-size: 17px;
+    padding: 5px;
+    font-weight: bold;
+
+}
+.titles{
+    color: black;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin-top: -5px;
+    padding-left: 8px;
+}

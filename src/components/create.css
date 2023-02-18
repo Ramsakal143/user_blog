@@ -1,0 +1,16 @@
+.create-outer{
+   background-image: url('./images/blog-1.jpg');
+   background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 550px;
+    border-radius: 10px;
+}
+.create-inner{
+    background: rgba(195, 194, 194, 0.6);
+    background-size: 100% 100%;
+    min-width: 550px;
+    float: left;
+    right: 12px;
+    position: relative;
+    border-radius: 10px;
+}
